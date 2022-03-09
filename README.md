@@ -1,4 +1,4 @@
-# data-structure
+# Data-structure
 
 project 2:
 
